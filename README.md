@@ -21,4 +21,5 @@ This is the R script for the manuscirpt  **`A novel two-part statistical model f
 
 ## Note
 
+These codes are allowed to run on a standard desktop computer.
 
