@@ -1,6 +1,6 @@
 # Two part model code
 
-This is the R script for the manuscirpt  **`A novel two-part statistical model for identifying novel baseline predictors of chronic postsurgical pain`**. 
+This is R script for the manuscirpt  **`A novel two-part statistical model for identifying novel baseline predictors of chronic postsurgical pain`**. 
 
 
 ## File Descriptions
