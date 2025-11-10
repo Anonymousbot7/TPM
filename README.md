@@ -14,4 +14,11 @@ This is the R script for the manuscirpt  **`A novel two-part statistical model f
 
 ## Working Flow
 
-1. Run readdata.R to read csv files and prepare required functions such as 
+1. Run **`readdata.R`** to read csv files and prepare required functions such as ``split_train_test_stratified''.
+2. Run **`SingleGLM.R`** and **`Twopart.R`** to prepare single regression model and two part regression model.
+3. Run **`repeatexperiment.R`** to repeatedly separate samples and conduct experiments.
+4. Do not need to run **`Twopartj.R`** and **`repeatexperimentj.R`**, these two codes are prepared for different threshold. In our two part models, the threshold is naturally 0.
+
+## Note
+
+
